@@ -5,7 +5,7 @@ Welcome to the **MERN Movie App**! This application lets you explore movies and 
 ## 🖼️ Screenshots
 
 ## Home Page
-![Book Search](Screenshot 2024-10-10%20181136)
+![Book Search](Home1.jpg)
 
 ![Book Search](Screenshot 2024-10-10 181155)
 
